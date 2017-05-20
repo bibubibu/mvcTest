@@ -1,0 +1,12 @@
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\Assembly-CSharp.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\UnityEditor.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\UnityEngine.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\UnityEngine.UI.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\Mono.Cecil.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\nunit.framework.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\Unity.DataContract.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\obj\Debug\Assembly-CSharp.dll
+D:\cygwin64\data\InventorySystem_mvc\InventorySystem\obj\Debug\Assembly-CSharp.pdb
